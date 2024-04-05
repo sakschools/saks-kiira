@@ -7,6 +7,7 @@ theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
     mainSchool = false
     defaultDescription = "Sir Apollo Kaggwa Primary School - Kiira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills."
     [params.school]
+        hm_name = "BUKIRWA FARIDAH"
         name = 'kiira'
         motto = 'We Ignite Academic Excellence'
         summary1 = 'Sir Apollo Kaggwa Primary School - Kiira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills.'
