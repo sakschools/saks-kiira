@@ -1,16 +1,16 @@
-baseURL = 'https://kiira.sirapollokaggwaschools.co.ug/'
+baseURL = 'https://.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
-title = 'Sir Apollo Kaggwa Primary School Kiira'
+title = 'Sir Apollo Kaggwa Primary School Kira'
 theme = "saks-theme"
 
 [params]
     mainSchool = false
-    defaultDescription = "Sir Apollo Kaggwa Primary School - Kiira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills."
+    defaultDescription = "Sir Apollo Kaggwa Primary School - Kira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills."
     [params.school]
         hm_name = "BUKIRWA FARIDAH"
-        name = 'kiira'
+        name = 'kira'
         motto = 'We Ignite Academic Excellence'
-        summary1 = 'Sir Apollo Kaggwa Primary School - Kiira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills.'
+        summary1 = 'Sir Apollo Kaggwa Primary School - Kira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills.'
         summary2 = 'We provide a stimulating and credible learning environment which will produce dynamic and talented young Ugandan citizens and ensure all learners are equipped to meet the challenges of life”.'
         hm = "A school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge."
     [params.carousel]
