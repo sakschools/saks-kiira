@@ -1,0 +1,45 @@
+{
+  "slides": [
+    {
+      "image": "/img/carousel1.webp",
+      "content": {
+        "description": "We Ignite Academic Excellence"
+      }
+    },
+    {
+      "image": "/img/carousel2.webp",
+      "content": {
+        "topic": "Confidence",
+        "description": "Offering a broad learning environment that builds confidence in students"
+      }
+    },
+    {
+      "image": "/img/carousel3.webp",
+      "content": {
+        "topic": "Pupils' Leadership Enhancement",
+        "description": "We train leaders by embracing smartness, creativity, and innovation in our pupils"
+      }
+    },
+    {
+      "image": "/img/carousel4.webp",
+      "content": {
+        "topic": "Talents",
+        "description": "Offering the best learning skills to students to discover and nurture their talents in academics, sports, and arts"
+      }
+    },
+    {
+      "image": "/img/carousel5.webp",
+      "content": {
+        "topic": "Prominent Parents",
+        "description": "Interactive teachers that monitor pupils in all activities and parents who are always available to support their children in all activities"
+      }
+    },
+    {
+      "image": "/img/carousel6.webp",
+      "content": {
+        "topic": "Swimming Gala",
+        "description": "Interactive teachers that monitor pupils in all activities and parents who are always available to support their children in all activities"
+      }
+    }
+  ]
+}
