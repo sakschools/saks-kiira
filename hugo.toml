@@ -1,5 +1,5 @@
 baseURL = 'https://kira.sirapollokaggwaschools.co.ug/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Sir Apollo Kaggwa Primary School Kira'
 theme = "saks-theme"
 
