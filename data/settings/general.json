@@ -12,5 +12,6 @@
   "locale": "en-us",
   "defaultDescription": "Sir Apollo Kaggwa Primary School - Kira is a private primary school registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills.",
   "email": "info@sirapollokaggwaschools.co.ug",
-  "baseURL": "kira.sirapollokaggwaschools.co.ug"
+  "baseURL": "kira.sirapollokaggwaschools.co.ug",
+  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7233265246236!2d32.63426617369933!3d0.39537536390282335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177db70bdc4c6819%3A0x25bf4948f50bd6ac!2sSir%20Apollo%20Kaggwa%20Primary%20School-Kira!5e0!3m2!1sen!2sug!4v1711370434729!5m2!1sen!2sug"
 }
