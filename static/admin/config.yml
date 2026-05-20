@@ -71,6 +71,7 @@ collections:
           - { label: "Site Title", name: "title", widget: "string" }
           - { label: "School Logo", name: "logo", widget: "image" }
           - { label: "School Email", name: "email", widget: "string" }
+          - { label: "Google Maps Embed URL", name: "google_map_src", widget: "text" }
           - { label: "School Info", name: "school", widget: "object", fields: [
               { label: "Motto", name: "motto", widget: "string" },
               { label: "Mission", name: "mission", widget: "text" },
