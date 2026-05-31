@@ -28,5 +28,5 @@ We invite all kids who want to have fun to join us for an amazing day!
 Open for interviews for Pre-Primary to Primary 6 from **26th October 2024 to 30th November 2024**.
 
 For more details, contact us at:  
-📞 +256 782626142 
+📞 +256 704-281240 
 🌐 [Sir Apollo Kaggwa Schools](http://sirapollokaggwaschools.co.ug)
