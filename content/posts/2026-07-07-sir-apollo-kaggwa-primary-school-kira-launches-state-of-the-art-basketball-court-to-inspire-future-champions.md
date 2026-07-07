@@ -46,4 +46,8 @@ For nearly three decades, Sir Apollo Kaggwa Schools have remained committed to d
 
 The commissioning of the new basketball court at Sir Apollo Kaggwa Primary School Kira therefore represents far more than the opening of a sporting facility. It is a bold investment in the future of Uganda's young people, one that will nurture talent, promote healthy and active lifestyles, strengthen character, and empower learners to excel both academically and athletically. As the school continues to raise the standard of holistic education, the new court stands as a lasting symbol of its vision to develop tomorrow's leaders, scholars, and sporting champions.
 
-![](https://youtu.be/9JKQlSFgPiI?si=k1L4K5BOCpVHTKcx)
+![](/img/678407.jpg)
+
+```
+https://youtu.be/9JKQlSFgPiI?si=k1L4K5BOCpVHTKcx
+```
