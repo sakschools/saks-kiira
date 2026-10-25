@@ -30,9 +30,13 @@ Across the three events, Audrey collected two bronze medals and recorded three p
 
 > “I am proud to represent my country this year. Being the first time makes it extra special. This is just the beginning of what's to come,” **Audrey said.**
 
-Her performance in Kampala builds on an impressive record at school-level competitions. In 2025, she won individual medals at the National Primary Schools Swimming Gala and emerged as the best performer for Sir Apollo Kaggwa Primary School Kira.
+Her performance formed part of a successful campaign for Uganda, which secured its fourth consecutive Africa Aquatics Zone III Championships title and sixth overall across the competition’s 11 editions. The achievement further cemented Uganda’s position as the region’s most successful swimming nation.
 
-Audrey also won all her races at the Sir Apollo Kaggwa Schools and City Parents’ School Annual Swimming Gala, helping our Kira campus finish third overall. Sir Apollo Kaggwa Primary School Mengo emerged as champions, while Sir Apollo Kaggwa Primary School Nakasero finished as runners-up.
+Uganda won the inaugural championship in 2015 and claimed the title again in 2021 when it hosted the competition at Kampala International School Uganda. Its latest triumph extended an impressive run of success, although the country is yet to win the championship in either Rwanda or Tanzania. With Tanzania announced as the host of the 12th edition, Uganda will look to begin preparations to defend its title and extend its winning streak on foreign soil.
+
+Audrey’s contribution to Uganda’s latest success adds to an impressive record at school-level competitions. In 2025, she won individual medals at the National Primary Schools Swimming Gala and emerged as the best performer for Sir Apollo Kaggwa Schools.
+
+Audrey also won all her races at the 2025 Sir Apollo Kaggwa Schools and City Parents’ School Annual Swimming Gala, helping our Kira campus finish third overall. Sir Apollo Kaggwa Primary School Mengo emerged as champions, while Sir Apollo Kaggwa Primary School Nakasero finished as runners-up.
 
 Her progress is particularly encouraging because she moved from the 9–10 age category into the 12-and-under group this year. The transition has brought her into competition with older swimmers, presenting a new challenge as she continues to refine her technique and improve her times.
 
